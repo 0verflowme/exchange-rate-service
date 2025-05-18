@@ -23,7 +23,7 @@ Currency Exchange Rate Service that allows clients to fetch real-time exchange r
 
 ## Technologies
 
-- **Go**: Core language (Go 1.21+)
+- **Go**: Core language (Go 1.24+)
 - **Docker**: Containerization
 - **Prometheus & Grafana**: Monitoring (optional)
 
